@@ -1,7 +1,7 @@
 # Gomoku 
 
 ## Overview
-This project is an implementation of the classic board game Gomoku (Five in a Row) using the C programming language. Gomoku is a two-player game where the players take turns placing their pieces on a grid. The objective is to be the first to form a continuous horizontal, vertical, or diagonal line of five pieces.
+This program is an implementation of the classic board game Gomoku (Five in a Row) using the C programming language. Gomoku is a two-player game where the players take turns placing their pieces on a grid. The objective is to be the first to form a continuous horizontal, vertical, or diagonal line of five pieces.
 
 ## How to Play
   - Setup: The game board is initialized with a size of 15x15.
@@ -14,5 +14,5 @@ This project is an implementation of the classic board game Gomoku (Five in a Ro
 
   - Play Again: After each game, the player has the option to play again or exit.
 
-### Licence
-This repository is licenced under the [MIT Licence](https://github.com/NikolaosGazis/Gomoku?tab=MIT-1-ov-file).
+### License
+This repository is licensed under the [MIT Licence](https://github.com/NikolaosGazis/Gomoku?tab=MIT-1-ov-file).
